@@ -1,4 +1,6 @@
-![App Screenshot](https://res.cloudinary.com/dx3vxwusq/image/upload/v1612658598/uiclone_zkdhjh.png)
+<p align=center> 
+  <img src="https://res.cloudinary.com/dx3vxwusq/image/upload/v1612658598/uiclone_zkdhjh.png" alt="Google UI Clone" />
+</p>
 
 <h1 align="center">Google UI Clone</h1>
 
